@@ -1,2 +1,2 @@
 # UserConsole
-for Buiness IT Students @hegarc // HES-SO
+for Business IT students @hegarc // HES-SO 
