@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 class ConsoleTest {
     @Test
     void test() {
-        Console console = new Console();
+        Console console = Console.getInstance();
         console.setEntry("First entry");
         console.setEntry("Second entry");
         assert (!console.getEntries().isEmpty());
