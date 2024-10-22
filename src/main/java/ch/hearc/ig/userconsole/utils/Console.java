@@ -47,10 +47,10 @@ public class Console {
     }
 
     public void printMenu() {
-        System.out.println("======================================================");
+        System.out.println("=====================================================");
         for (String entry : entries) {
             System.out.println(entry);
         }
-        System.out.println("======================================================");
+        System.out.println("=====================================================");
     }
 }
